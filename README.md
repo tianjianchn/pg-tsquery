@@ -1,4 +1,4 @@
-## pg text-search sanitizer [![Build Status](https://travis-ci.org/caub/pg-tsquery.svg?branch=master)](https://travis-ci.org/caub/pg-tsquery)
+## PostgreSQL text-search sanitizer [![Build Status](https://travis-ci.org/caub/pg-tsquery.svg?branch=master)](https://travis-ci.org/caub/pg-tsquery)
 
 Like `plainto_tsquery` operator but allows more syntax (OR, NOT) without letting pg throws 
 
